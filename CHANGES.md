@@ -9,7 +9,7 @@ Improvements 🙌:
  - Improve room profile UX
  - Upgrade Jitsi library from 2.9.3 to 3.1.0
  - a11y improvements
- - Fetch homeserver type and version and display in a new wetting screen and add info in rageshakes (#2831)
+ - Fetch homeserver type and version and display in a new setting screen and add info in rageshakes (#2831)
 
 Bugfix 🐛:
  - VoIP : fix audio devices output
